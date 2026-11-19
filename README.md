@@ -20,8 +20,7 @@ All solutions within this repository are configured as independent, reproducible
 
 ## Repository Information & Authors
 
-- **Suggested Repository Name:** `mobile-computing-codelabs`
-- **Repository URL:** [https://github.com/Isa-Bedoya-UdeA/mobile-computing-codelabs](https://github.com/Isa-Bedoya-UdeA/mobile-computing-codelabs)
+- **Repository:** [https://github.com/Isa-Bedoya-UdeA/mobile-computing-codelabs](https://github.com/Isa-Bedoya-UdeA/mobile-computing-codelabs)
 
 ### Authors
 - **Isabela Bedoya Gaviria** ([GitHub](https://github.com/Isa-Bedoya-UdeA))
@@ -44,8 +43,9 @@ During the review of the assigned reference links, the following structural rela
 3. **Background Scheduling Scope:**
    - The *Blur-O-Matic* project covers Jetpack WorkManager, demonstrating `CoroutineWorker` execution, input/output data parameterization, and sequential worker chains (`CleanupWorker` -> `BlurWorker` -> `SaveImageToFileWorker`).
 
-Evidence of pathway completion for Unit 5 is documented in:
-`assets/unidad5.png`
+### Unit 5 Completion Verification
+
+![Unit 5 Completion](assets/unidad5.png)
 
 ---
 
